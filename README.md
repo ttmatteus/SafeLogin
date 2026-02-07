@@ -19,8 +19,8 @@ Acesse no navegador o endereço exibido (geralmente `http://localhost:5173`).
 ### Outros comandos
 
 ```bash
-npm run build    # build para produção
-npm run preview  # visualizar o build
+npm run build # build para produção
+npm run preview # visualizar o build
 ```
 
 
@@ -39,7 +39,7 @@ npm run preview  # visualizar o build
   - Campos vazios → mensagem de erro
   - Usuário ou senha incorretos → mensagem de erro
   - Credenciais corretas → mensagem de sucesso
-- Sem redirecionamento
+
 
 
 
